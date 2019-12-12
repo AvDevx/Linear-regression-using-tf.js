@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+body{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    overflow: hidden;
+    background-color: black;
+}
+h1{
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    padding:20px;
+    font-weight: 200;
+    margin: 0px;
+}
+h1 > span{
+    font-weight: 600;
+}
+header{
+    width: 520px;
+    margin-top: 20px;
+    height:auto;
+    background-color:#191A21;
+}
